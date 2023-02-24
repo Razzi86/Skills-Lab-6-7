@@ -1,4 +1,4 @@
-# Skills-Lab-6-Version-Control
+# Skills-Lab-6/7
 1) group members:
 - Aidan Reilly
 - Brent Brewster
