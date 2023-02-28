@@ -12,9 +12,9 @@
 - How to commit code, make pull requests, and collaborate with other users on github
 
 4) LICENSE.md
-- WHAT IS IT
-- WHY WE CHOSE IT
+- Open-source license Software provided AS IS warranty free
+- We want anyone to be able to use and modify our project, but can not provide any warranty
 
-5) CODE-OF-CONTACT.md
-- TELL USERS TO READ CODE-OF-CONDUCT BEFORE MAKING PULL REQUESTS
-- CONTACTS
+5) CODE-OF-CONDUCT.md
+- Please read our CODE-OF-CONDUCT file before making any pull requests  
+- Please do not contact us in any way shape or form. If you need assistince with this project take, CMPINF0010
